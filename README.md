@@ -10,8 +10,8 @@ If you have Docker installed. You can follow [Docker's installation instructions
 
 Clone this repository:
 ```sh
-git clone https://github.com/trezor/trezor-mcu.git`
-cd trezor-mcu
+git clone https://github.com/antonio-fr/trezor-mcu-hid.git`
+cd trezor-mcu-hid
 ```
 
 Use the `build.sh` command to build the images.
