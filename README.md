@@ -10,7 +10,7 @@ If you have Docker installed. You can follow [Docker's installation instructions
 
 Clone this repository:
 ```sh
-git clone https://github.com/antonio-fr/trezor-mcu-hid.git`
+git clone https://github.com/antonio-fr/trezor-mcu-hid.git
 cd trezor-mcu-hid
 ```
 
