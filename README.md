@@ -63,7 +63,7 @@ Firmware fingerprints of versions earlier than 1.7 are the same as SatoshiLabs, 
 
 For new versions :
 
-1.7.3 : fa3eb33b38e56db749dbe4b6f789b5fe19b54e10b87fa28ffb4e2d5459904f12
+1.7.3 : d5d4e9dc58738065cdd254cc86ace066688a113f145b3b8e0a3b259ceca6999a
 
 
 ## How to get fingerprint of firmware signed and distributed by SatoshiLabs?
